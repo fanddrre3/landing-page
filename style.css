@@ -1,0 +1,135 @@
+.header{
+    display: flex;
+    flex-direction: column;
+    background-color: #1F2937;
+    color: white;
+    padding-bottom: 20px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+}
+
+img {
+    width: 300px;
+    height: 175px;
+}
+
+.header-image {
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 100px;
+}
+
+.text-1 {
+    font-size: 48px;
+    font-weight: bolder;
+    padding-left: 10px;
+    color: #F9FAF8;
+}
+
+.text-2 {
+    padding-left: 10px;
+}
+
+.middle-text-1 {
+    font-size: 36px;
+    margin-top: -8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.middle-text {
+    font-size: 36px;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.all-box {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.box-1 {
+    border: 5px solid blueviolet;
+    width: 150px;
+    height: auto;
+}
+
+.box-2 {
+    border: 5px solid rgb(212, 46, 8);
+    width: 150px;
+    height: auto;
+}
+
+.middle-1 {
+    display: flex;
+    flex-direction: row;
+}
+
+.middle-2 {
+    background-color: #E5E7EB;
+}
+
+.middle-img {
+    width: 150px;
+    height: auto;
+}
+
+.vid {
+    width: 300px;
+    height: auto;
+}
+
+.link {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding-right: 15px;
+}
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.box-text {
+    background: #3882F6;
+    color: white;
+    padding: 20px;
+    margin: 30px;
+    font-weight: bold;
+}
+
+.button-1 {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    border-radius: 5px;
+    border-color: #1F2937;
+    font-weight: bold;
+}
+
+.button-2 {
+    display: flex;
+    border-radius: 5px;
+    border-color: #E5E7EB;
+    font-weight: bold;
+}
+
+.footer {
+    background-color: #1F2937;
+    color: white;
+    display: flex;
+    justify-content: center;
+    flex: auto;
+    padding: 20px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: -8px;
+}
