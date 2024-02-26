@@ -9,6 +9,10 @@
     margin-top: -8px;
 }
 
+.header-text {
+    margin-left: 60px;
+}
+
 img {
     width: 300px;
     height: 175px;
@@ -31,7 +35,7 @@ img {
     padding-left: 10px;
 }
 
-.middle-text-1 {
+.middle-text {
     text-align: center;
     font-size: 36px;
     margin-top: -8px;
