@@ -3,10 +3,8 @@
     flex-direction: column;
     background-color: #1F2937;
     color: white;
-    padding-bottom: 20px;
-    margin-left: -8px;
-    margin-right: -8px;
-    margin-top: -8px;
+    padding: 20px;
+    margin: -8px;
 }
 
 .header-text {
@@ -97,7 +95,8 @@ img {
     display: flex;
     justify-content: flex-end;
     gap: 20px;
-    padding-right: 15px;
+    padding-right: 1px;
+    margin-right: 65px;
 }
 button {
     background-color: #3882F6;
@@ -138,7 +137,5 @@ button {
     justify-content: center;
     flex: auto;
     padding: 20px;
-    margin-left: -8px;
-    margin-right: -8px;
-    margin-bottom: -8px;
+    margin: -8px;
 }
