@@ -81,6 +81,8 @@ img {
 .quote {
     padding: 20px;
     margin: 30px;
+    font: 36px light italic ;
+    color: #1F2937;
 }
 
 .name {
