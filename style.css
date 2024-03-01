@@ -89,6 +89,7 @@ button {
     display: flex;
     flex-direction: row;
     text-align: center;
+    background-color: white;
     margin-left: 350px;
 }
 
