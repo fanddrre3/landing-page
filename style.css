@@ -8,7 +8,7 @@
 }
 
 .header-text {
-    margin-left: 63px;
+    margin-left: 350px;
 }
 
 img {
@@ -19,7 +19,7 @@ img {
 .flag {
     height: 20px;
     width: 45px;
-    margin-left: 70px;
+    margin-left: 350px;
 }
 
 .header-image {
@@ -33,13 +33,31 @@ img {
     font-weight: bolder;
     padding-left: 10px;
     color: #F9FAF8;
-    margin-left: 60px;
+    margin-left: 350px;
 }
 
 .text-2 {
     padding-left: 10px;
-    margin-left: 60px;
+    margin-left: 350px;
 }
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+
+.button-1 {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+    border-radius: 5px;
+    border-color: #1F2937;
+    font-weight: bold;
+    margin-left: 350px;
+}
+
 
 .middle-text {
     text-align: center;
@@ -110,10 +128,7 @@ img {
     padding-right: 1px;
     margin-right: 65px;
 }
-button {
-    background-color: #3882F6;
-    color: #F9FAF8;
-}
+
 
 .box-text {
     background: #3882F6;
@@ -121,18 +136,6 @@ button {
     padding: 20px;
     margin: 30px;
     font-weight: bold;
-}
-
-.button-1 {
-    width: 100px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-left: 10px;
-    border-radius: 5px;
-    border-color: #1F2937;
-    font-weight: bold;
-    margin-left: 67px;
 }
 
 .button-2 {
