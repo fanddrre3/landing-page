@@ -28,6 +28,15 @@ img {
     padding-right: 100px;
 }
 
+.link {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    padding-right: 1px;
+    margin-right: 65px;
+}
+
+
 .text-1 {
     font-size: 48px;
     font-weight: bolder;
@@ -71,6 +80,10 @@ button {
     margin: 5px;
 }
 
+.img-text {
+    font-size: smaller;
+    font-weight: lighter;
+}
 
 .all-box {
     display: flex;
@@ -115,14 +128,6 @@ button {
 .vid {
     width: 300px;
     height: auto;
-}
-
-.link {
-    display: flex;
-    justify-content: flex-end;
-    gap: 20px;
-    padding-right: 1px;
-    margin-right: 65px;
 }
 
 
