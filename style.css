@@ -129,6 +129,8 @@ button {
 
 
 .box-text {
+    display: flex;
+    flex-direction: column;
     background: #3882F6;
     color: white;
     padding: 20px;
@@ -137,7 +139,6 @@ button {
 }
 
 .button-2 {
-    display: flex;
     border-radius: 5px;
     border-color: #E5E7EB;
     font-weight: bold;
