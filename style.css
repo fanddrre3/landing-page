@@ -139,6 +139,7 @@ button {
 }
 
 .button-2 {
+    width: 100px;
     border-radius: 5px;
     border-color: #E5E7EB;
     font-weight: bold;
