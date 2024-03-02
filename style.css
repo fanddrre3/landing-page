@@ -89,7 +89,6 @@ button {
     display: flex;
     flex-direction: row;
     text-align: center;
-    background-color: white;
     margin-left: 350px;
 }
 
@@ -104,6 +103,7 @@ button {
     margin: 30px;
     font: 36px light italic ;
     color: #1F2937;
+    margin-left: 350px;
 }
 
 .name {
