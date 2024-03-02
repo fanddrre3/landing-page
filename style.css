@@ -109,7 +109,7 @@ button {
 .quote {
     padding: 20px;
     margin: 30px;
-    font: 36px light italic ;
+    font: 36px light italic;
     color: #1F2937;
     margin-left: 350px;
 }
@@ -117,16 +117,12 @@ button {
 .name {
     padding: 20px;
     margin-left: 30px;
+    font: 20px bolder;
 }
 
 
 .middle-img {
     width: 150px;
-    height: auto;
-}
-
-.vid {
-    width: 300px;
     height: auto;
 }
 
