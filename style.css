@@ -67,15 +67,10 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
-}
-
-.middle-text {
-    font-size: 36px;
     padding: 5px;
     margin: 5px;
-    display: flex;
-    flex-direction: column;
 }
+
 
 .all-box {
     display: flex;
