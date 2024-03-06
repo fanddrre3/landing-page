@@ -1,3 +1,4 @@
+
 .header{
     display: flex;
     flex-direction: column;
@@ -8,7 +9,16 @@
 }
 
 .header-text {
-    
+    display: flex;
+    justify-content: first baseline;
+    align-self: first baseline;
+    top: 10px;
+}
+
+.right-side {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
 }
 
 img {
@@ -50,8 +60,11 @@ img {
 }
 
 button {
+    display: flex;
+    justify-content: baseline;
     background-color: #3882F6;
     color: #F9FAF8;
+    margin-top: 10px;
 }
 
 .button-1 {
