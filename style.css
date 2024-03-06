@@ -8,7 +8,7 @@
 }
 
 .header-text {
-    margin-left: 350px;
+    
 }
 
 img {
@@ -19,13 +19,11 @@ img {
 .flag {
     height: 20px;
     width: 45px;
-    margin-left: 350px;
 }
 
 .header-image {
     display: flex;
     justify-content: flex-end;
-    padding-right: 100px;
 }
 
 .link {
@@ -45,12 +43,10 @@ img {
     font-weight: bolder;
     padding-left: 10px;
     color: #F9FAF8;
-    margin-left: 350px;
 }
 
 .text-2 {
     padding-left: 10px;
-    margin-left: 350px;
 }
 
 button {
